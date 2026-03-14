@@ -1,7 +1,6 @@
 from etl.extract import extract_sales, extract_treatments
 from etl.transform import transform_data
 from etl.load import load_dataframe
-
 from sqlalchemy import create_engine
 from config import DB_CONFIG
 import pandas as pd
