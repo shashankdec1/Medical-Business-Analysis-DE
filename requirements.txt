@@ -1,7 +1,10 @@
-scikit-learn
-pandas
-psycopg2-binary
-sqlalchemy
 streamlit
+pandas
+numpy
+plotly
+seaborn
 matplotlib
+sqlalchemy
+psycopg2-binary
+scikit-learn
 reportlab
