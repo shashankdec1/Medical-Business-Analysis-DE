@@ -1,7 +1,7 @@
 DB_CONFIG = {
-    "host": "db.supabase.co",
+    "host": "localhost",
     "database": "healthcare_dw",
     "user": "shashankbangaru",
-    "password": "password",
+    "password": "",
     "port": "5432"
 }
