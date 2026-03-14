@@ -1,5 +1,5 @@
 
---1 Average sales per year
+-- 1 Average sales per year
 SELECT year, AVG(sales_value) AS avg_sales
 FROM pharma_sales
 GROUP BY year;
